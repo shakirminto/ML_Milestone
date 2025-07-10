@@ -39,9 +39,4 @@ Key Insights:
 The machine learning model can successfully predict loan approval status with good accuracy.
 Features such as applicant income, CIBIL score, and asset values are highly influential in determining loan approvals.
 
-Way Forward
-Experiment with other classification algorithms and advanced techniques (such as hyperparameter tuning).
-Explore additional feature engineering and data enrichment to further improve model performance.
-Integrate the model into a production workflow for real-time loan application assessments.
-Expand analysis with additional visualizations or insights for business stakeholders.
 
